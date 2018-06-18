@@ -1,0 +1,16 @@
+  {
+  "name": "ht-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ht-analytics.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksimyurkov/ht-analytics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksimyurkov/ht-analytics/issues"
+  },
+  "homepage": "https://github.com/maksimyurkov/ht-analytics#readme"
+}
