@@ -6,9 +6,9 @@ class HTAnalytics extends HTMLElement {
     script.async = true;
     document.getElementsByTagName("head")[0].appendChild(script);
     window.dataLayer = window.dataLayer || [];
-    function gtag() {
+    window.gtag = function() {
       window.dataLayer.push(arguments);
-    }
+    };
     gtag("js", new Date());
     gtag("config", key);
   }
